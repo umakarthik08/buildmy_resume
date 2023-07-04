@@ -192,6 +192,7 @@ const showListData = (listData, listContainer) => {
     })
 }
 
+
 const displayCV = (userData) => {
     nameDsp.innerHTML = userData.firstname + " " + userData.middlename + " " + userData.lastname;
     phonenoDsp.innerHTML = userData.phoneno;
