@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lunasima&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 
@@ -70,7 +71,7 @@ a{
 .bg-blue-mid{background-color: var(--clr-blue-mid);}
 .bg-blue-dark{background-color: var(--clr-blue-dark);}
 .bg-bright{background-color: var(--clr-bright);}
-.bg-dark{background-color: var(--clr-dark);}
+.bg-dark{background-color: var(--clr-black);}
 .bg-grey{background-color: var(--clr-grey);}
 .bg-white{background-color: var(--clr-white);}
 .bg-black{background-color: var(--clr-black);}
@@ -349,7 +350,7 @@ a{
 }
 
 .cv-form-row-title{
-    background-color: var(--clr-dark);
+    background-color: var(--clr-blue-dark);
     padding: 0.8rem 1.6rem;
     margin-bottom: 2rem;
 }
@@ -529,7 +530,7 @@ textarea{
 .experiences-items.preview-blk-list .preview-item span:nth-child(4),
 .experiences-items.preview-blk-list .preview-item span:nth-child(5){
     margin-right: 1rem;
-    background-color: var(--clr-green);
+    background-color: var(--clr-black);
     color: var(--clr-white);
     padding: 0 1rem;
     border-radius: 0.6rem;
